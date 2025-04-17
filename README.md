@@ -1,7 +1,6 @@
-# Excel---Bootcamp---Workbook
-# Data Technician Workbook - Week 1 📘 
-
-![Excel Logo](https://upload.wikimedia.org/wikipedia/commons/4/43/Excel_2013_logo.svg)
+# Excel---Data Bootcamp---Workbook
+ 
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 This workbook is a compilation of practical exercises, notes, and guided tasks completed as part of Week 1 in the Data Technician course. It focuses on foundational data concepts, Excel-based analysis, and understanding key regulations around data handling.
 
