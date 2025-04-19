@@ -7,7 +7,7 @@ This workbook is a compilation of practical exercises, notes, and guided tasks c
 ----- 
 ## 🧠 Weekly Breakdown
 
-
+---
 ### ✅ Day 1: Data Legislation
 **Overview of UK data laws and regulations:**
 - **Data Protection Act**
