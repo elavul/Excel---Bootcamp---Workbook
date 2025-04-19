@@ -29,7 +29,7 @@ This project focuses on exploring and analyzing retail customer transaction data
 - Using the **SUM** function, show me the commission total in cell ‘P10’ 
 - Using the **AVERAGE** function, show me the average commission in cell ‘P11’ 
   
-##### 📂Let's explore the dataset:
+##### 📂Let's explore the dataset and some formulas used:
 <img src="https://github.com/user-attachments/assets/a1ffc09a-72a1-4890-beab-8fa2f9035410" width="400" />
 <img src="https://github.com/user-attachments/assets/84aef692-5825-43b3-a044-b37b5a5d9e86" width="400" />
 <img src="https://github.com/user-attachments/assets/d09dfd2c-f510-4a74-b250-8ee88b5967fc" width="400" />
